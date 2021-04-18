@@ -1,6 +1,6 @@
 # LeetCode
 LeetCodeはGAFAなどの外資IT企業群のコーディング面接で出題された問題が掲載されており、アカウントを持っていれば挑戦できる。
 競技プログラミングの問題に近く、アルゴリズムに関する問題が多い。
-詳しくは(こちら)[https://leetcode.com/]
+詳しくは[こちら](https://leetcode.com/)
 
 定期的に解いてgithubにpushしています。
